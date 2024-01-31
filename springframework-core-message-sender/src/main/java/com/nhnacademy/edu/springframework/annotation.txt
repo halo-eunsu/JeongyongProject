@@ -1,0 +1,19 @@
+@Componenet -> Stereo type
+@Bean -> 빈 등록
+
+
+
+DI 를 위해 쓰는 annotation
+@Autowired
+@Qualifier
+DI가 필요없으면 안써도 된다. 근데 그거 안하면 왜 스프링씀?
+
+
+스프링 프레임워크
+DI, AOP
+
+Spring MVC?
+
+scratch text
+
+plain text
