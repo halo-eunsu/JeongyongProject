@@ -5,7 +5,7 @@ package com.nhnacademy.edu.springframework;
 
 public class Main {
 
-    public void me(){
+    public static void main(String[] args) {
 
     }
 }
